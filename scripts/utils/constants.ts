@@ -29,16 +29,16 @@ export const LENDER_NOTE_BASE_URI = "ipfs://QmTKTPKZx6qTnVJZxo1SYr53woDtMLZjuy1q
 export const LENDER_NOTE_NAME = "Arcade.xyz Lender Note";
 export const LENDER_NOTE_SYMBOL = "aLN";
 
-export const OLD_ADMIN = "0xAdD93e738a415c5248f7cB044FCFC71d86b18572";
+export const OLD_ADMIN = "0x398e92C827C5FA0F33F171DC8E20570c5CfF330e";
 
 // To fill in after deployment
-export const ADMIN = "0x693b52aA96Ff804AE06bfC90B8471b7aD4c2192D";                      // ArcadeCoreVoting
-export const RESOURCE_MANAGER = "0x56c95514e3BCA2c6F8D5beFF6Bd8E52a633F5E46";           // Launch Partner Multisig
-export const CALL_WHITELIST_MANAGER = "0x56c95514e3BCA2c6F8D5beFF6Bd8E52a633F5E46";     // Launch Partner Multisig
-export const LOAN_WHITELIST_MANAGER = "0x693b52aA96Ff804AE06bfC90B8471b7aD4c2192D";     // ArcadeCoreVoting
-export const FEE_CLAIMER = "0x693b52aA96Ff804AE06bfC90B8471b7aD4c2192D";                // ArcadeCoreVoting
-export const AFFILIATE_MANAGER = "0x5A49d508c2766A6118718D4d9CC790A03A57Aa5f";          // ArcadeGSCCoreVoting
-export const SHUTDOWN_CALLER = "0x81ec538F69B73A15361D75d0E4f0568E60F1C347";            // Foundation Multisig
+export const ADMIN = "0x54B7235dB74103395dD48A2c3dd993E3b7d39856";                      // ArcadeCoreVoting
+export const RESOURCE_MANAGER = "0x398e92C827C5FA0F33F171DC8E20570c5CfF330e";           // Launch Partner Multisig
+export const CALL_WHITELIST_MANAGER = "0x398e92C827C5FA0F33F171DC8E20570c5CfF330e";     // Launch Partner Multisig
+export const LOAN_WHITELIST_MANAGER = "0x54B7235dB74103395dD48A2c3dd993E3b7d39856";     // ArcadeCoreVoting
+export const FEE_CLAIMER = "0x54B7235dB74103395dD48A2c3dd993E3b7d39856";                // ArcadeCoreVoting
+export const AFFILIATE_MANAGER = "0x2b6F11B2A783C928799C4E561dA89cD06894A279";          // ArcadeGSCCoreVoting
+export const SHUTDOWN_CALLER = "0xE004727641b3C9A2441eE21fa73BEc51f6029543";            // Foundation Multisig
 
 export const allowedCurrencies = [
     "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",       // WETH
