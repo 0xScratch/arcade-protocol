@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/token/ERC721/IERC721.sol";
 import "./ILoanCore.sol";
 import "./IFeeController.sol";
 
-import "./v3/IOriginationControllerV3.sol";
+import "../v3/interfaces/IOriginationControllerV3.sol";
 
 import "../external/interfaces/IFlashLoanRecipient.sol";
 
